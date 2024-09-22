@@ -1,5 +1,8 @@
-# 1. Initial Setup
+![Screenshot (29)](https://github.com/user-attachments/assets/10f8b61c-932f-47b2-a8c8-1714d2bdee98)
+![Screenshot (30)](https://github.com/user-attachments/assets/85ed5fe4-c120-45e9-8e92-2c12e7212426)
 
+
+# 1. Initial Setup
 ## Prerequisites
 Make sure you have the following installed:
 
@@ -15,8 +18,8 @@ Make sure you have the following installed:
 First, clone the repository to your local machine and navigate to the project directory:
 
 ```
-git clone https://github.com/shadikhasan/django_starter_template2.git
-cd django_starter_template2
+git clone https://github.com/shadikhasan/Link-Scraper.git
+cd Link Scraper
 ```
 
 ### 2. Create a Virtual Environment
