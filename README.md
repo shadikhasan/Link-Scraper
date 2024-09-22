@@ -18,8 +18,8 @@ Make sure you have the following installed:
 First, clone the repository to your local machine and navigate to the project directory:
 
 ```
-git clone https://github.com/shadikhasan/Link-Scraper.git
-cd Link Scraper
+git clone https://github.com/shadikhasan/Link-Scraper-Django.git
+cd Link Scraper Django
 ```
 
 ### 2. Create a Virtual Environment
